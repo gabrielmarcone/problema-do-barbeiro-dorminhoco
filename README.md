@@ -2,7 +2,8 @@
 
 **Autor:** Gabriel Marcone Magalhaes Santos
 
-**Início:** 05/06/2025  
+**Início:** 05/06/2025
+
 **Última alteração:** 17/06/2025
 
 ---
