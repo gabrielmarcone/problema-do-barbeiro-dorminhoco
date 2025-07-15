@@ -31,10 +31,7 @@ Este projeto ilustra a **solução concorrente** do clássico **Problema do Barb
 
 ## 📸 Demonstração do Projeto
 
-* **Barbeiro dormindo**: `gifs/barbeiro_dormindo.gif`
-* **Cliente entrando e aguardando**: `gifs/cliente_entrando.gif`
-
-> 🎥 Em breve, vídeo demonstrativo disponível na pasta `docs/`.
+* **Simulação**: `gifs/barbeiro_dormindo.gif`
 
 ```
 ```
