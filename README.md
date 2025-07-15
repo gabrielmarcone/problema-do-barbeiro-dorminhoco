@@ -1,13 +1,6 @@
-````markdown
 # 📌 Problema do Barbeiro Dorminhoco
 
-<p align="center">
-  <img src="gifs/barbeiro_dormindo.gif" alt="Barbeiro Dormindo" width="300" />
-  <img src="gifs/cliente_entrando.gif" alt="Cliente Entrando" width="300" />
-</p>
-
-**Autor:** Gabriel Marcone Magalhaes Santos  
-**Matrícula:** 202410374  
+**Autor:** Gabriel Marcone Magalhaes Santos
 **Início:** 05/06/2025  
 **Última alteração:** 17/06/2025
 
