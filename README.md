@@ -30,9 +30,3 @@ Este projeto ilustra a **solução concorrente** do clássico **Problema do Barb
 - **Controle de UI**: botões, sliders e imagens animadas (`controller.*`)
 
 ---
-
-## 📸 Demonstração do Projeto
-
-* **Simulação**: `gifs/barbeiro_dormindo.gif`
-
-```
