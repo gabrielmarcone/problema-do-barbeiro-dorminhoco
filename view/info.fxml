@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8.0.202" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.ControllerTelaInformacoes">
+  <children>
+    <ImageView fitHeight="600.0" fitWidth="400.0" pickOnBounds="true">
+      <image>
+        <Image url="@../image/informacoes.png" />
+      </image>
+    </ImageView>
+    <ImageView fx:id="imagemBotaoVoltarInfoDetectado" fitHeight="37.0" fitWidth="35.0" layoutX="23.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true" visible="false">
+      <image>
+        <Image url="@../image/botaoVoltarDetectado.png" />
+      </image>
+    </ImageView>
+    <ImageView fx:id="imagemBotaoVoltarInfo" fitHeight="37.0" fitWidth="35.0" layoutX="23.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@../image/botaoVoltar.png" />
+      </image>
+    </ImageView>
+    <Button fx:id="botaoVoltarInfo" layoutX="23.0" layoutY="14.0" mnemonicParsing="false" onAction="#acaoBotaoVoltarInfo" opacity="0.0" prefHeight="34.0" prefWidth="35.0" style="-fx-background-radius: 6;" text="Button" />
+  </children>
+</AnchorPane>
