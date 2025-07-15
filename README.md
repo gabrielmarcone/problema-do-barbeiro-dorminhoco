@@ -1,6 +1,7 @@
 # 📌 Problema do Barbeiro Dorminhoco
 
 **Autor:** Gabriel Marcone Magalhaes Santos
+
 **Início:** 05/06/2025  
 **Última alteração:** 17/06/2025
 
