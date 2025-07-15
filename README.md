@@ -34,4 +34,3 @@ Este projeto ilustra a **solução concorrente** do clássico **Problema do Barb
 * **Simulação**: `gifs/barbeiro_dormindo.gif`
 
 ```
-```
